@@ -1,5 +1,5 @@
 # demo
-just doodle some demos
+just share some demos
 ---
 
 [demo](http://wangpf.vip/demo/)
